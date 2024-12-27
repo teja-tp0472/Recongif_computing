@@ -16,8 +16,12 @@ Hierarchical Modular Design with Custom Computational Units and Multiplexers
 5. [Testing and Validation](#testing-and-validation)
 6. [How to Run the Project](#how-to-run-the-project)
 
-## Tools used
-Xilix Vivado
+## Tools Required
+This project is designed to be used with the following tools:
+- **Xilinx Vivado**: For HDL design, simulation, and synthesis.
+
+### Installation
+Download and install Xilinx Vivado from the [official website](https://www.xilinx.com/products/design-tools/vivado.html).
 
 ## Programming language 
 VHDL
