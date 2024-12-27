@@ -39,6 +39,8 @@ The top module is represented with color-coded components:
 - **Green**: Storage units
 - **Blue and Purple**: Feedback paths
 
+![image](https://github.com/user-attachments/assets/1d2e2525-2e79-4de4-94bf-402c638bef51)
+
 Key parameters:
 - `d_w`: 4 (data width)
 - `rows`: 4
